@@ -12,5 +12,5 @@
 - [x] STEP8 AI Hub·분류기 — 2026-08-03 AI Hub 질의응답 5,565건 정리(data/faqs.csv), TF-IDF+LinearSVC 분류기 생성(정확도 0.468)
 - [x] STEP9 답변(LLM) — 2026-08-03 서버 /api/answer 추가, OpenAI가 Supabase 검색 FAQ 근거로 자연어 답변 생성
 - [x] STEP10 테스트(test_cases.md) — 2026-08-03 golden_set 8문항 멀티에이전트 기준 평가, 8/8 통과, 개선 1순위 기록
-- [ ] STEP11 배포 — 2026-08-03 Nuxt 프레임워크 전환 완료, GitHub/Netlify 배포는 아직 진행 전
+- [ ] STEP11 배포 — 2026-08-03 Nuxt 전환 및 GitHub 저장 완료, Netlify 배포는 아직 진행 전
 - [ ] STEP12 발표
