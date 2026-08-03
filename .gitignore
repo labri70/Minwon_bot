@@ -1,0 +1,23 @@
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+config.local.js
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+.nuxt/
+.output/
+.netlify/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
